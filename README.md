@@ -1,13 +1,3 @@
-# SAFU Contract Validation
-InterFi Network provides intelligent blockchain solutions. We have worked on major public blockchains - Binance, Ethereum, Cronos, Tron, Polygon, Avalanche, Doge, Metis, Fantom, Bitcoin Cash, Oasis, etc. In this repository, we'll upload audit reports and audit compliance certificates. To request a smart contract audit, contact https://t.me/interfiaudits or hello@interfi.network
-
-Automated analysis is performed to identify common contract vulnerabilities.
-
-Simulations are performed to identify centralized exploits causing contract and/or trade pause.
-
-A manual line-by-line analysis is performed to identify contract issues and centralized privileges.
-
-
 # About InterFi Network
 
 InterFi Network provides intelligent blockchain solutions. We provide solidity development, testing, and auditing services. We have developed 150+ solidity codes, audited 1000+ smart contracts, and analyzed 500,000+ code lines. 
